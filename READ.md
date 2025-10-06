@@ -18,8 +18,7 @@ Analysis of UK healthcare costs using Excel and Power BI to identify trends and 
 - See `/images` for screenshots
 
 ## Dashboards
-![Dashboard Overview](images/dashboard_overview.png)
-![Regional Analysis](images/regional_analysis.png)
+
 
 ## Data Confidentiality
 All data used is anonymized and complies with UK data protection laws.
